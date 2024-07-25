@@ -27,7 +27,7 @@ Restaurant log in
 ![Screenshot 2024-04-18 125338](https://github.com/user-attachments/assets/3b2af192-40f9-4b51-9d2b-a08a3aa545d7)
 
 
-Adding new dishes to restaurat's menu
+Adding new dishes to restaurant's menu
 
 ![Screenshot 2024-04-18 125153](https://github.com/user-attachments/assets/ddf91939-0255-4396-a46a-3847c32769d2)
 
